@@ -12,3 +12,5 @@ https://mobarak-ali.github.io/module12/
 ## 12-5 explore string case change index split
 
 ## 12-6 integer float parseInt parseFloat type conversion
+
+## 12-7 Mathematical operations in JavaScript

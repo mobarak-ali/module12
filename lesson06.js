@@ -35,11 +35,6 @@ var total = fractionVal1 + fractionVal2;
 console.log(total); // 0.30000000000000004
 // to fix this use toFixed()
 // toFixed(1) value inside the function means
-// how many digit you wnat to display after decimal
+// how many digit you wnat to display after decimal  
 console.log(total.toFixed(1)); // 0.3
 console.log(total.toFixed(3)); // 0.300
-
-
-
-
-
