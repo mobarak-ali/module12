@@ -20,3 +20,5 @@ https://mobarak-ali.github.io/module12/
 ## 12-9 Make conditional decision, if-else, comparison
 
 ## 12-10 Multiple conditions, fulfill both conditions, else if
+
+## 12-11 JavaScript Date timezone and Module Summary
