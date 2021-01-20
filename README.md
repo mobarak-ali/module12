@@ -10,3 +10,5 @@ https://mobarak-ali.github.io/module12/
 ## 12-4 variable name naming convention and best practice
 
 ## 12-5 explore string case change index split
+
+## 12-6 integer float parseInt parseFloat type conversion
