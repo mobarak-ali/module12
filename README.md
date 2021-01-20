@@ -16,3 +16,5 @@ https://mobarak-ali.github.io/module12/
 ## 12-7 Mathematical operations in JavaScript
 
 ## 12-8 Math absolute round floor ceil random
+
+## 12-9 Make conditional decision, if-else, comparison
