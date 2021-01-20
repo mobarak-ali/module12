@@ -8,3 +8,5 @@ https://mobarak-ali.github.io/module12/
 ## 12-3 Variable type, Numeric, String, Boolean
 
 ## 12-4 variable name naming convention and best practice
+
+## 12-5 explore string case change index split
