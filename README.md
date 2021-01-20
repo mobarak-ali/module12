@@ -18,3 +18,5 @@ https://mobarak-ali.github.io/module12/
 ## 12-8 Math absolute round floor ceil random
 
 ## 12-9 Make conditional decision, if-else, comparison
+
+## 12-10 Multiple conditions, fulfill both conditions, else if
