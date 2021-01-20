@@ -14,3 +14,5 @@ https://mobarak-ali.github.io/module12/
 ## 12-6 integer float parseInt parseFloat type conversion
 
 ## 12-7 Mathematical operations in JavaScript
+
+## 12-8 Math absolute round floor ceil random
